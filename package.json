@@ -1,0 +1,22 @@
+{
+  "name": "calculadoranumerologianome",
+  "version": "1.0.0",
+  "description": "Calculadora da numerologia do nome de uma empresa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedropsfarias/calculadoranumerologianome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedropsfarias/calculadoranumerologianome/issues"
+  },
+  "homepage": "https://github.com/pedropsfarias/calculadoranumerologianome#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
